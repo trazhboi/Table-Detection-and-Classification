@@ -61,71 +61,13 @@ Table-Detection-and-Classification/
 
 ---
 
-## 🚀 Installation
+## 🌐 Live Demo
 
-Clone the repository
+Try the deployed application here:
 
-```bash
-git clone https://github.com/your-username/Table-Detection-and-Classification.git
+**🔗 https://table-detection-and-classification.streamlit.app/**
 
-cd Table-Detection-and-Classification
-```
-
-Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate the environment
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / macOS
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Running the Application
-
-Start the Streamlit server
-
-```bash
-streamlit run app.py
-```
-
-Open the browser
-
-```
-http://localhost:8501
-```
-
----
-
-## 📸 Usage
-
-1. Launch the Streamlit application.
-2. Upload a document image.
-3. The model detects all tables.
-4. Each detected table is classified as:
-   - **Bordered**
-   - **Borderless**
-5. The annotated image with bounding boxes and confidence scores is displayed.
-
----
+No installation is required—simply upload a document image containing tables, and the model will detect and classify each table as **Bordered** or **Borderless**.
 
 ## 🧠 Model
 
