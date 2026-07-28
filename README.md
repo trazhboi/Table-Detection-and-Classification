@@ -1,6 +1,11 @@
 # 📑 Table Detection and Classification using YOLO
 
-A deep learning-based application that detects tables in document images and classifies them as **Bordered** or **Borderless** using the YOLO object detection framework. The project includes a Streamlit web application for interactive inference.
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://table-detection-and-classification.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)]
+[![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-green)]
+[![License](https://img.shields.io/badge/License-MIT-yellow)]
+
+> 🚀 **Live Demo:** https://table-detection-and-classification.streamlit.app/
 
 ---
 
