@@ -175,4 +175,5 @@ This project is licensed under the MIT License.
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/trazhboi
+
